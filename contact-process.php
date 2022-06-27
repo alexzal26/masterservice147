@@ -29,7 +29,7 @@
 	if (!$errormsg){
 		//change recipient email and subject here
 		$to = "admin@yoursite.com";
-		$subject = "New AboutMe Demo Contact Form Submitted";	
+		$subject = "New MasterService Demo Contact Form Submitted";
 		
 		//prepare email body
 		$body_message = "";

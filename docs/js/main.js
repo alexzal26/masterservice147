@@ -1,6 +1,6 @@
 /*
 |--------------------------------------------------------------------------
-	AboutMe - Personal Portfolio Resume Template Main JS
+	Master service
 |--------------------------------------------------------------------------
 */
 document.addEventListener("touchstart", function() {},false);
